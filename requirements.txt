@@ -1,0 +1,10 @@
+assemblyai==0.26.0
+fastapi==0.110.2
+openai==0.28.1
+pip-chill==1.0.3
+pyaudio==0.2.14
+pydub==0.25.1
+pygame==2.5.2
+python-dotenv==1.0.1
+uvicorn==0.29.0
+websocket==0.2.1
